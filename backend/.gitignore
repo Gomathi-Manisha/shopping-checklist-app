@@ -4,6 +4,31 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+# Compiled class files
+target/
+*.class
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+*.bak
+
+# OS
+.DS_Store
+
 ### STS ###
 .apt_generated
 .classpath
